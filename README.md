@@ -3,9 +3,6 @@
 ## WARNING! :
 -**The tool is for educational purposes only.The developer does not accept responsibility for illegal attacks!**
 
-![](https://www.linkpicture.com/q/pic_20.jpg)
-![](https://www.linkpicture.com/q/pic2_8.jpg)
-
 ## WARNING!
 
 - **This tool is used for educational purposes only.The developer does not accept responsibility for illegal attacks.This tool cannot be sold, money cannot be earned on the tool.**
