@@ -1,4 +1,6 @@
 # p0znADB-Captor
+⚠️ **UPDATE:** Compatibility patch has been applied for **Python 3.13.x** versions. (Update Date : 27.07.2025)
+
 ## Automatic ADB Detection and Connection Tool Within the Network
 ## WARNING! :
 -**The tool is for educational purposes only.The developer does not accept responsibility for illegal attacks!**
